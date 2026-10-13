@@ -1,4 +1,4 @@
-#  Pair Matching - Menory Game - New Plannet
+#  Pair Matching - Memory Game - New Planet
 
 **`--- Team Project ---`**
 
